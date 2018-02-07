@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunProject", "FunProject.csproj", "{DEE3099D-36A5-5B18-3B8D-B8025433BEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunProject.Editor", "FunProject.Editor.csproj", "{B71FE432-6B23-9D0A-3E60-BB0184343414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE3099D-36A5-5B18-3B8D-B8025433BEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE3099D-36A5-5B18-3B8D-B8025433BEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE3099D-36A5-5B18-3B8D-B8025433BEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE3099D-36A5-5B18-3B8D-B8025433BEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71FE432-6B23-9D0A-3E60-BB0184343414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71FE432-6B23-9D0A-3E60-BB0184343414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71FE432-6B23-9D0A-3E60-BB0184343414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71FE432-6B23-9D0A-3E60-BB0184343414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
